@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eee;
+}
+h1 {
+  text-align: center;
+  margin: 30px;
+}
+.container {
+  margin: auto;
+  width: 100%;
+  overflow: hidden;
+}
+
+.card {
+  text-align: center;
+  display: inline-block;
+  width: 30%;
+  background-color: white;
+  border: 1px solid lightgray;
+  border-radius: 2px;
+  height: 100%;
+}
+h5 {
+  margin: 20px;
+}
+i {
+  font-size: 50px;
+  margin: 10px;
+}
+i.one {
+  color: rgb(9, 9, 58);
+}
+i.two {
+  color: rgb(53, 15, 15);
+}
+i.three {
+  color: rgb(116, 20, 20);
+}
